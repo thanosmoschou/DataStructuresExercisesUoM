@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648399548 source:/home/thanos_moschou/Desktop/a1f4Project/a1f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

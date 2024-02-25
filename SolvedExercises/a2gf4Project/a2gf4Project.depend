@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649590852 source:/home/thanos_mos/Desktop/a2gf4Project/a2gf4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

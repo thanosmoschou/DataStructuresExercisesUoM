@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653229579 source:/home/thanos_mos/Desktop/a6f6Project/a6f6.c
+	<stdio.h>
+	<ctype.h>
+

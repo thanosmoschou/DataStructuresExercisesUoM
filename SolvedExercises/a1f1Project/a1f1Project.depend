@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646488488 source:c:\users\anatoliko\desktop\a1f1project\a1f1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

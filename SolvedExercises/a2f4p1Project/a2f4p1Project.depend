@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1648569148 source:/home/thanos_moschou/Desktop/a2f4p1Project/a2f4p1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<math.h>
+	"a2f4p1Protot.h"
+
+1648569161 /home/thanos_moschou/Desktop/a2f4p1Project/a2f4p1Protot.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<math.h>
+
+1648569166 source:/home/thanos_moschou/Desktop/a2f4p1Project/a2f4p1Func.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<math.h>
+	"a2f4p1Protot.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652187294 source:/home/thanos_mos/Desktop/a32f5Project/a32f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

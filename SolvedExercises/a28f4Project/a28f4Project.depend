@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650890741 source:/home/thanos_mos/Desktop/a28f4Project/a28f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

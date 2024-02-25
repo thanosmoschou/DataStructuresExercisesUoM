@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647714322 source:/home/thanos_moschou/Desktop/a11f3Project/a11f3.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+

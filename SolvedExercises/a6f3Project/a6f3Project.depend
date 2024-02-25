@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647710773 source:/home/thanos_moschou/Desktop/a6f3Project/a6f3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+

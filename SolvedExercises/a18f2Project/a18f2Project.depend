@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646936737 source:/home/thanos_moschou/Desktop/a18f2Project/a18f2.c
+	<stdio.h>
+	<stdlib.h>
+

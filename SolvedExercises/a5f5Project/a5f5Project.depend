@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651744960 source:/home/thanos_mos/Desktop/a5f5Project/a5f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

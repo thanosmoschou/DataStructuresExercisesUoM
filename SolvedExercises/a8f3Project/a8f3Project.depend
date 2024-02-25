@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647711958 source:/home/thanos_moschou/Desktop/a8f3Project/a8f3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

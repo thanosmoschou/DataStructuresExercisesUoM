@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647186447 source:/home/thanos_moschou/Desktop/a13f2Project/a13f2.c
+	<stdio.h>
+	<stdlib.h>
+

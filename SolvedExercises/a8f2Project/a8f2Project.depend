@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647096839 source:/home/thanos_moschou/Desktop/a8f2Project/a8f2.c
+	<stdio.h>
+	<stdlib.h>
+

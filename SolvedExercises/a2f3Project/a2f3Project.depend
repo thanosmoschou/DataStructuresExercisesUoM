@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647530365 source:/home/thanos_moschou/Desktop/a2f3Project/a2f3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
